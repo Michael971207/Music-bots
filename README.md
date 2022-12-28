@@ -12,4 +12,4 @@ There are many commands that can be used with the bot. Most notably, the `play <
 ### Further reading
 
 * [Support Discord server](https://discord.gg/bots)
-* [Project license](LICENSE)
+
